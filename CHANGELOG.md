@@ -1,6 +1,23 @@
 # Change Log
 
-All notable changes to the Scheduler Viewer extension will be documented in this file.
+All notable changes to the Scheduler Viewer Extension for z/OS will be documented in this file.
+
+## [2.2.0] 2024/11/08
+- Added walkthrough
+- Added support for INCLIB and INCMEM macros
+- Now comments are ignored when searching for variables in JCL files
+- Updated language interpreter to manage DD blocks better
+- Preview button now focuses in the previewed code
+- Now the dataset checking functionality is smarter
+
+## [2.1.0] 2024/05/24
+- Added step libraries modification in descriptor screen
+- Added configurable quick access tree to zowe view
+- Added capability to upload JCLs as datasets with the placeholders replaced
+- Improved support for these variables: ODATE, ODAY, OHOUR
+
+## [2.0.1] 2024/03/26
+- Updated display name
 
 ## [2.0.0] 2024/03/22
 - Added interpolations style static variable replacers
