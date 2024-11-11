@@ -2,6 +2,9 @@
 
 All notable changes to the Scheduler Viewer Extension for z/OS will be documented in this file.
 
+## [2.2.1] 2024/11/11
+- Extended support for zowe 3.0
+
 ## [2.2.0] 2024/11/08
 - Added walkthrough
 - Added support for INCLIB and INCMEM macros
